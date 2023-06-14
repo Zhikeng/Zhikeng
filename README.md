@@ -23,7 +23,7 @@ Why don't we just meet and talk about it?
 - 📄 please see my [resume](https://docs.google.com/document/d/1QEn4S7SVHmVYStuJGdt9jjxIDg6YjRV612iCUKVlQdE/edit?usp=sharing)
 - <a href="https://www.linkedin.com/in/zhikeng-kong/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> my social media
+</a>
 
 <br />
 
