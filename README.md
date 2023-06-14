@@ -27,6 +27,9 @@ He dive deep into Data Analysis because of collecting the correct data made sale
 Why don't we just meet and talk about it?
 - 💼 any freelance work? do reach, [email](mailto:kongzhikeng@gmail.com)
 - 📄 please see my [resume](https://docs.google.com/document/d/1QEn4S7SVHmVYStuJGdt9jjxIDg6YjRV612iCUKVlQdE/edit?usp=sharing)
+
+<br />
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
