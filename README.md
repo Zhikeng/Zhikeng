@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/zhikeng-kong/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <!--
 **Zhikeng/Zhikeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
