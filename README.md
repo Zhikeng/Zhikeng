@@ -45,4 +45,4 @@ Why don't we just meet and talk about it?
 
 📚 most used languages
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikeng&layout=compact" alt="Zhikeng Languages Card" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikeng&layout=compact&theme=tokyonight" alt="Zhikeng Languages Card" />
