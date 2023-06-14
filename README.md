@@ -42,3 +42,4 @@ Why don't we just meet and talk about it?
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zhikeng&show_icons=true&theme=gotham" alt="Zhikeng" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikeng&hide_progress=true)
