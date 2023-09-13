@@ -22,7 +22,7 @@ Why don't we just meet and talk about it?
 - 💼 any freelance work? do reach, [email](mailto:kongzhikeng@gmail.com)
 - 📄 please see my [resume](https://drive.google.com/file/d/12PPurr0UISxiPLJxvpP1d77MaJjoqCEW/view?usp=sharing)
 - <a href="https://www.linkedin.com/in/zhikeng-kong/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://camo.githubusercontent.com/f17ba9730c27e5f…d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />
 </a>
 
 <br />
