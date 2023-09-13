@@ -22,7 +22,7 @@ Why don't we just meet and talk about it?
 - 💼 any freelance work? do reach, [email](mailto:kongzhikeng@gmail.com)
 - 📄 please see my [resume](https://drive.google.com/file/d/12PPurr0UISxiPLJxvpP1d77MaJjoqCEW/view?usp=sharing)
 - <a href="https://www.linkedin.com/in/zhikeng-kong/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Icon" />
 </a>
 
 <br />
