@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-Zhikeng(ZK or Louis) is a Full-Stack Software Developer with a background of 8 years in Wine and Spirit Industry. He is passionate about programming , developing web apps and especially analyzing data. Extensive Sales and Marketing experiences have made him built up strong learning abilities,  collaborative skills and troubleshooting, problem-solving skills. 
+Zhikeng(ZK or Louis) is a Full-Stack Web Developer, Data Engineer, and Software Engineer. He is passionate about programming , developing web apps and especially analyzing data. Extensive Sales and Marketing experiences have made him built up strong learning abilities,  collaborative skills and troubleshooting, problem-solving skills. 
 He dive deep into Data Analysis because of collecting the correct data made sales and marketing work more efficient. That's really a good instance of using technology in real world. And possessing a huge database is one of the reasons why some companies could always lead the market. 
 
 Why don't we just meet and talk about it?
