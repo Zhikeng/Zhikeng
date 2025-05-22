@@ -20,7 +20,7 @@ He dive deep into Data Analysis because of collecting the correct data made sale
 
 Why don't we just meet and talk about it?
 - 💼 any freelance work? do reach, [email](mailto:kongzhikeng@gmail.com)
-- 📄 please see my [resume](https://drive.google.com/file/d/12PPurr0UISxiPLJxvpP1d77MaJjoqCEW/view?usp=sharing)
+- 📄 please see my [resume](https://drive.google.com/file/d/1-sMoSjc9dYEPBg9u6y2YfgbGxK-T2Wqd/view?usp=sharing)
 - <a href="https://www.linkedin.com/in/zhikeng-kong/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
