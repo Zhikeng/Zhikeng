@@ -36,4 +36,4 @@ Results-driven Computer Science and Information Technology student with a 4.0 GP
 
 <br />
 
-[![Zhikeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhikeng)]
+![Zhikeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhikeng&show_icons=true)
