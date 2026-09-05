@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Results-driven Computer Science and Information Technology student with a 4.0 GPA. Proficient in building full-stack applications and predictive data models using Python. Seeking a challenging Software Engineer Internship to leverage problem-solving abilities and collaborate effectively.
 
-- 📄 please see my [resume](https://drive.google.com/file/d/1-sMoSjc9dYEPBg9u6y2YfgbGxK-T2Wqd/view?usp=sharing)
+- 📄 please see my [resume](https://drive.google.com/file/d/1eFOQbLe-CRtGPYDVaKrNbSDXvVQIvwJ9/view?usp=sharing)
 - <a href="https://www.linkedin.com/in/zhikeng-kong/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
