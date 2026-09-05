@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-Highly motivated Computer Science student with a strong foundation in full-stack development (HTML, CSS, JavaScript, React, Node.js, MongoDB) and data analysis (Python, Scikit-Learn, Matplot). Seeking a challenging Data Engineer or Software Engineer role to leverage problem-solving abilities and contribute to innovative technical solutions. Proven ability to quickly learn new technologies and collaborate effectively.
+Results-driven Computer Science and Information Technology student with a 4.0 GPA. Proficient in building full-stack applications and predictive data models using Python. Seeking a challenging Software Engineer Internship to leverage problem-solving abilities and collaborate effectively.
 
 - 📄 please see my [resume](https://drive.google.com/file/d/1-sMoSjc9dYEPBg9u6y2YfgbGxK-T2Wqd/view?usp=sharing)
 - <a href="https://www.linkedin.com/in/zhikeng-kong/">
