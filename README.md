@@ -35,11 +35,3 @@ Highly motivated Computer Science student with a strong foundation in full-stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 <br />
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zhikeng&show_icons=true&theme=tokyonight" alt="Zhikeng Github Status" />
-
-📚 most used languages
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhikeng&layout=compact&theme=tokyonight" alt="Zhikeng Languages Card" />
