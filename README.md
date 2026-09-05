@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 Highly motivated Computer Science student with a strong foundation in full-stack development (HTML, CSS, JavaScript, React, Node.js, MongoDB) and data analysis (Python, Scikit-Learn, Matplot). Seeking a challenging Data Engineer or Software Engineer role to leverage problem-solving abilities and contribute to innovative technical solutions. Proven ability to quickly learn new technologies and collaborate effectively.
 
-Why don't we just meet and talk about it?
-- 💼 any freelance work? do reach, [email](mailto:kongzhikeng@gmail.com)
 - 📄 please see my [resume](https://drive.google.com/file/d/1-sMoSjc9dYEPBg9u6y2YfgbGxK-T2Wqd/view?usp=sharing)
 - <a href="https://www.linkedin.com/in/zhikeng-kong/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
