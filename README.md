@@ -36,4 +36,4 @@ Results-driven Computer Science and Information Technology student with a 4.0 GP
 
 <br />
 
-![My Top Languages](https://vercel.app)
+[![Top Langs](https://vercel.app)](https://github.com/Zhikeng/github-readme-stats)
